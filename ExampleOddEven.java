@@ -1,4 +1,4 @@
-public class OddEven
+public class ExampleOddEven
 {
 public static void main(String[] args)
 {
